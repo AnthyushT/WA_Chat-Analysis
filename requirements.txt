@@ -1,0 +1,11 @@
+streamlit
+matplotlib
+seaborn
+nltk
+collection
+wordcloud
+urlextract
+emoji
+sklearn
+genism
+keras
