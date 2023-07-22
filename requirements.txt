@@ -7,5 +7,3 @@ wordcloud
 urlextract
 emoji
 sklearn
-genism
-keras
