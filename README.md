@@ -1,5 +1,4 @@
-
-# BiDLSTM-Sentiment-WA_Chat-Analysis
+# WA_Chat_Analysis
 Not only posititve user, you can see the following results on overall group & individual as well :
 
 - Top Statistics(Total Messages, Words, etc)
