@@ -1,5 +1,4 @@
 # WA_Chat_Analysis
-Not only posititve user, you can see the following results on overall group & individual as well :
 
 - Top Statistics(Total Messages, Words, etc)
 - Monthly Activity map(Positive, Neutral, Negative)
@@ -41,5 +40,3 @@ streamlit run app.py
 - wordcloud
 - urlextract
 - emoji
-- keras
-- genism
